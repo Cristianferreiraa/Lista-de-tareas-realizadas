@@ -14,7 +14,7 @@ El siguiente paso fue cambiar los colores de la web poniendo azul y rojo granead
 
 Seguido de eso cambié las fuentes de las páginas y los posts por qué no me gustaba la que venía predeterminada. De ahí seguí haciendo posts en los que en total he hecho 17 posts con distintas categorías y sus diferentes imágenes.
 
-El siguiente paso fue crear 6 usuarios para la página con distintos roles en la web
+El siguiente paso fue crear 6 usuarios para la página con los distintos roles que hay en la web posibles.
 
 El siguiente paso fue instalar varios plugins como el Polylang, el Forminator para los formularios y el Ad inserter. Los configuré correctamente y pusé el Formulario en la página que cree seguidamente que fue la página "Contacta con nosotros".
 
