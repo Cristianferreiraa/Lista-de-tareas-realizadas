@@ -30,8 +30,16 @@ Plantilla: Me faltaba una página por crear y se me ocurrió hacer una poniendo 
 Blog:
 Tema: Astra
 Colores: Azul y rojo
+Categorias: 5
 Entradas: 18
 Páginas: 3
 Usuarios: 6
 Plugins: Polylang, Forminator y Ad inserter
-Enlaces: Instagram y TikTok
+Enlaces: Instagram, TikTok y YouTube
+
+Portal:
+Tiene un menú con enlace a las categorías y entradas del WordPress.
+Tiene una portada y una página de contacto con formulario.
+Tiene mapa de Google Maps en la página de contacto.
+Tiene 3 páginas personalizadas.
+Polylang instalado.
