@@ -26,3 +26,12 @@ Contacta con nosotros: En la que puse información para que contacten, número d
 Introducción: Basicamente lo que pusé fue un resumen de la historia del Barça un poco en general para los menos entendedores del fútbol que visiten la página
 
 Plantilla: Me faltaba una página por crear y se me ocurrió hacer una poniendo la plantilla de los jugadores del Barça ya que todo está relacionado con el club, en la que he puesto edades y dorsal da cada uno de ellos.
+
+Blog:
+Tema: Astra
+Colores: Azul y rojo
+Entradas: 18
+Páginas: 3
+Usuarios: 6
+Plugins: Polylang, Forminator y Ad inserter
+Enlaces: Instagram y TikTok
