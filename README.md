@@ -27,7 +27,7 @@ Introducción: Basicamente lo que pusé fue un resumen de la historia del Barça
 
 Plantilla: Me faltaba una página por crear y se me ocurrió hacer una poniendo la plantilla de los jugadores del Barça ya que todo está relacionado con el club, en la que he puesto edades y dorsal da cada uno de ellos.
 
-Blog:
+BLOG:
 
 Tema: Astra
 
@@ -45,7 +45,9 @@ Plugins: Polylang, Forminator y Ad inserter
 
 Enlaces: Instagram, TikTok y YouTube
 
-Portal:
+
+
+PORTAL:
 
 Tiene un menú con enlace a las categorías y entradas del WordPress.
 
